@@ -25,4 +25,4 @@ As a recommendation, I propose that citizens develop a self-care routine and int
 Finally, for the presentation method, I will be using Tableau to create data visualizations. I think Tableau will assist with being creative and ensuring the data is depicting the actual story that the information is intended to tell. Also, Tableau will provide more flexibility with manipulating the data the visualization.
 In regards to the overall presentation of the data, I am planning to use Esri Story Maps. I have used story maps in the past for previous projects and courses. Esri story maps will allow me to take the audience on a clear and concise journey to understand the development of anxiety symptoms during the pandemic.
 
-[Final part 1](/final_project_AlieyyahLewis.md)
+[Project Proposal](/final_project_AlieyyahLewis.md)
